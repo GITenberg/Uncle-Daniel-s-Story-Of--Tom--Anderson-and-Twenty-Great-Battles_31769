@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1015'
     url: http://www.gutenberg.org/2009/agents/1015
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31769#Uncle-Daniel-s-Story-Of--Tom--Anderson-and-Twenty-Great-Battles
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-03-25'
 gutenberg_type: Text
